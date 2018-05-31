@@ -161,7 +161,7 @@ p{
 
 .introducao .info{
 
-	width: 320px;
+	
 	
 	margin-bottom: 30px;
 	background: rgba(0, 0, 0, .7);
@@ -203,6 +203,11 @@ p{
 }
 
 
+.form-contato.form-2{
+
+	
+	text-align: center;
+}
 
 
 .form-contato button{
@@ -405,7 +410,6 @@ p{
 
 	.introducao .info{
 
-	width: 280px;
 	margin-left: -10px;
 	background: rgba(0, 0, 0, .7);
 	border-radius: 15px;
@@ -413,6 +417,13 @@ p{
 	margin-bottom: 40px; 
 
 }
+
+.form-contato.form-2{
+
+	
+	text-align: center;
+}
+
 
 /*Formulario*/
 
