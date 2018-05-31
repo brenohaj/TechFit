@@ -162,7 +162,7 @@ p{
 .introducao .info{
 
 	
-	
+	margin-top: 30px;
 	margin-bottom: 30px;
 	background: rgba(0, 0, 0, .7);
 	border-radius: 15px;
@@ -213,7 +213,7 @@ p{
 .form-contato button{
 
 	width: 220px;
-	margin-left: 40px;
+	
 	margin-top: 20px;
 }
 
